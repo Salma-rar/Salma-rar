@@ -28,5 +28,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-SalmaElHawary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salma-elhwary-551246301/)](https://www.linkedin.com/in/salma-elhwary-551246301/)  
-[![Facebook Badge](https://img.shields.io/badge/-SalmaElHawary-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=61551890376944)](https://web.facebook.com/profile.php?id=61551890376944)  
+ 
 
