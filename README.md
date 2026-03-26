@@ -1,42 +1,68 @@
-<h2 align="left">
-  <abc>
-  <br>Hi there! 
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Salma El-Hawary, Data Analyst 📊<br>
-  <br>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Data GIF" width="500">
-  </abc>
-</h2>
+# Hi 👋, I'm Salma El-Hawary
+### 📊 Data Analyst | Turning Data into Insights
 
-<h2 align="left">📊 Technologies and Tools I use:</h2>
-
-<p align="left">
-    <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-        <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    </a>
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="400">
 </p>
 
-<h2 align="left">👩🏻‍💻 About Me:</h2>
+---
 
-- 📊 Data Analyst specialized in **Excel & Power BI**
-- 🐍 Working with **Python for data analysis**
-- 🗄️ Skilled in **SQL & database querying**
-- 📈 Strong understanding of **Data Modeling & Visualization**
-- 🔍 Passionate about turning data into insights
-- 🚀 Always learning new tools & techniques in data
+## 👩🏻‍💻 About Me
+- 📊 Passionate **Data Analyst**
+- 📈 Skilled in **Data Visualization & Dashboarding**
+- 🐍 Working with **Python (Pandas, NumPy)**
+- 🗄️ Strong in **SQL & Data Querying**
+- 📊 Expert in **Excel & Power BI**
+- 🚀 Always learning & improving
 
-✨ Life Hack: *"Turn data into decisions"*
+✨ *"Without data, you're just another person with an opinion."*
 
-<h2 align="left">❤️ Let's get connected:</h2>
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-SalmaElHawary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salma-elhwary-551246301/)](https://www.linkedin.com/in/salma-elhwary-551246301/)  
- 
+## 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 Projects
+
+### 🔹 Sales Dashboard - Power BI
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/sales-dashboard.png" width="500">
+</p>
+- Built interactive dashboards to track KPIs, revenue & trends
+
+### 🔹 Data Cleaning with Python
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*3f7z7s.png" width="500">
+</p>
+- Cleaned and analyzed datasets using Pandas
+
+### 🔹 SQL Data Analysis
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="200">
+</p>
+- Extracted insights with advanced queries & joins
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/salma-elhwary-551246301/" target="blank">
+<img src="https://img.shields.io/badge/-SalmaElHawary-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p> 
